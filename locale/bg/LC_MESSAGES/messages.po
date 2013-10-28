@@ -162,7 +162,7 @@ msgstr "Опитай отново"
 
 #: /templates/errors/fragment.html:2
 msgid "An error occurred."
-msgstr "Възникна грешна"
+msgstr "Възникна грешка."
 
 #: /media/js/helpers.js:72
 msgid "Message"
